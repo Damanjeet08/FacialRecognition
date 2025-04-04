@@ -5,9 +5,9 @@ The system can be effectively used in educational institutions or corporate envi
 
 Technologies Used:
 
-Python 3.x
-OpenCV
-NumPy
-Pandas
-OS (for file management)
+Python 3.x,
+OpenCV,
+NumPy,
+Pandas,
+OS (for file management),
 Tkinter (optional GUI)
