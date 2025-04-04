@@ -3,7 +3,8 @@ This project is a Facial Recognition Attendance System that uses computer vision
 
 The system can be effectively used in educational institutions or corporate environments to enhance accuracy and reduce manual workload in attendance management.
 
-Technologies Used
+Technologies Used:
+
 Python 3.x
 OpenCV
 NumPy
